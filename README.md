@@ -4,8 +4,8 @@ Nearly all text in this guide comes from [Starting to Develop Visual Studio Exte
 
 ### To start you'll need to [install Visual Studio SDK](https://msdn.microsoft.com/en-us/library/mt683786.aspx)
 
-* Go to: Control Panel/Uninstall or change a program/Microsoft Visual Studio/Change/Modify and select Common Tools/Visual Studio Extensibility Tools. ![Control Panel](https://i-msdn.sec.s-msft.com/dynimg/IC846431.jpeg "control panel")
-
+* Go to: Control Panel/Uninstall or change a program/Microsoft Visual Studio/Change/Modify and select Common Tools/Visual Studio Extensibility Tools.
+![Control Panel](https://i-msdn.sec.s-msft.com/dynimg/IC846431.jpeg "control panel")
 * Note that you must use the Visual Studio installer that matches your installed version of Visual Studio
 
 ### Creating Visual Studio Extension with a single command

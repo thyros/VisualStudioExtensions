@@ -176,4 +176,4 @@ When your extension is built **YourProject.vsix** can be found in `bin\Debug` or
 ```
 When the DWORD registry value below is set to 1, CTRL+SHIFT is pressed, and you attempt to display a menu or execute a command, a VSDebug Message dialog will be displayed containing the GUID and ID of that menu or command.
 * After a while your experimental instance can be full of old stuff. You can clean it up by cleaning `HKCU\Software\Microsoft\VisualStudio\14.0Exp and HKCU\Software\Microsoft\VisualStudio\14.0Exp_Config` as explainded in [The Experimental Instance](https://msdn.microsoft.com/en-us/library/bb166560.aspx)
-* You can find this extension on [my kingfluence page](https://kingfluence.com/display/~robert.starzycki/Visual+Studio+Plugins)
+* You can find this extension on [my kingfluence page]()
